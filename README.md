@@ -1,5 +1,5 @@
 
-# <font style="color:rgb(50,120,229)">Introduction to Pytorch</font>
+# <font style="color:rgb(50,120,229)">Introduction to Pytorch (by OpenCV)</font>
 This notebook will provide a brief overview of PyTorch and how it is similar to Numpy. The goal of this notebook is to understand the basic data structures required to build Deep Learning models and train them.
 
 ### <font style="color:rgb(8,133,37)">Why do we need PyTorch when we already have Numpy?</font>
